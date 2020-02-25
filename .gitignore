@@ -1,6 +1,6 @@
 output
+project
 .vscode
 .DS_Store
-.idea
-**/*.tgz
-**/charts/*/charts
+*.tgz
+*.sh
